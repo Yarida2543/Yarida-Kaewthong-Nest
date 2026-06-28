@@ -1,4 +1,4 @@
-# Hi, I'm Yarida Kaewthong 👋
+# Hi, I'm Yarida Kaewthong (Nest) 👋
 
 I'm a Master of Commerce student in Artificial Intelligence and Business Analytics 
 at Curtin University, Perth, Western Australia.
